@@ -1,0 +1,3 @@
+[submodule "gtp5g"]
+	path = gtp5g
+	url = https://github.com/PrinzOwO/gtp5g
